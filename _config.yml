@@ -1,6 +1,6 @@
 name: Afrikana Exotic Foods
 favicon: null
-layout_spectrum: 0.679897504625842
+layout_spectrum: 0.97572
 typography_spectrum: 0.8157575766090304
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#000000'
+    - '#df2516'
+    - '#eb765a'
+    - '#7b7c77'
   brandStrength: 0.3915449462365359
   lightness: 0.8475093189626932
   saturation: 0.5435881004668772
